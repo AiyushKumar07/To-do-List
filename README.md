@@ -1,7 +1,7 @@
 ## .preview
 
-![To-Do List App](https://ibb.co/jG4sPRK)
-![To-Do List App](https://ibb.co/BcBGDY7)
+![To-Do List App](https://i.ibb.co/YPhX9VK/Screenshot-2023-10-17-205841.png)
+![To-Do List App](https://i.ibb.co/TRhdxLX/Screenshot-2023-10-17-205824.png)
 
 ## .tools
 
